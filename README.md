@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Memo Rodriguez
 - 👀 I’m interested in biches
 - 🌱 I’m currently learning Ing. software
-- 💞️ I’m looking to collaborate on my works in the school
+- 💞️ I’m looking to collaborate on my homeworks of the school
 - 📫 How to reach me 24/7
 
 <!---
