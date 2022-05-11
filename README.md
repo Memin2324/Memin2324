@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Memin2324
+- 👋 Hi, I’m Memo Rodriguez
 - 👀 I’m interested in biches
 - 🌱 I’m currently learning Ing. software
 - 💞️ I’m looking to collaborate on my works in the school
